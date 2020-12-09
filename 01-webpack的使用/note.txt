@@ -1,0 +1,7 @@
+check node.js version
+ : node -v
+install webpack
+ : npm install webpack@3.6.0 -g
+install local webpack
+ in project, run the following command
+ : npm install webpack@3.6.0 --save-dev
